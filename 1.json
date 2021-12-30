@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "price": 99.99,
+  "username": "rohit",
+  "address": {
+    "city": "mumbai"
+  },
+  "list": ["delhi", "calcutta", "mumbai", "chennai"],
+  "list1": [10, 100, 1000]
+}
